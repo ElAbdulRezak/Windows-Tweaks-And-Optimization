@@ -2,7 +2,7 @@
 
 🛑WILL BE PUBLISHED IN A FEW WEEKS🛑
 
-📌This project has been created for the user to run the operating system with the best performance.
+📌This project has been created for the user to run the operating system with the best performance and security.
 
 🖱️ If you want to run the operating system with better performance, all we have to do is download and run the file.
 
