@@ -2,9 +2,9 @@
 
 🛑WILL BE PUBLISHED IN A FEW WEEKS🛑
 
-📌A project created to reduce ram usage with optimization for windows 10 and 11 versions
+📌This project has been created for the user to run the operating system with the best performance.
 
-🖱️If you want to reduce unnecessary monitoring and ram usage in the Windows operating system, you can do everything with one click.
+🖱️ If you want to run the operating system with better performance, all we have to do is download and run the file.
 
 🧰The construction phase of this project consists of 2 months and many false attempts.
 
