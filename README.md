@@ -1,6 +1,6 @@
 # Windows-Tweaks-And-Optimization
 
-🛑WILL BE PUBLISHED IN A FEW WEEKS🛑
+🛑NO UPDATE WILL BE COMING FOR A LONG TIME🛑
 
 📌This project has been created for the user to run the operating system with the best performance and security.
 
