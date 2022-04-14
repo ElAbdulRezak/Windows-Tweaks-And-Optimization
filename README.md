@@ -1,6 +1,6 @@
 # Windows 11 ElAbdulRezakOs Pro Lite
 
-🛑NO UPDATE WILL BE COMING FOR A LONG TIME🛑
+🛑THERE WILL NEVER BE UPDATE🛑
 
 📌This project has been created for the user to run the operating system with the best performance and security.
 
